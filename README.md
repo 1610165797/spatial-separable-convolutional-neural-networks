@@ -2,7 +2,7 @@
 
 Implementation of the MobileNets CNN model in CUDA
 The main branch is the original design.
-For improved design, please see branch kernel_layout.
+For accelerated design, please see branch kernel_layout.
 
 MobileNets Paper: https://arxiv.org/abs/1704.04861
 
