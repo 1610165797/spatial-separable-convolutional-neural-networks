@@ -4,7 +4,7 @@ Implementation of the MobileNets CNN model in CUDA
 The main branch is the original design.
 For accelerated design, please see branch kernel_layout.
 
-Our Report Paper: https://github.com/1610165797/spatial-separable-convolutional-neural-networks/blob/kernel_layout/Spatial%20Separable%20Convolutional%20Neural%20Networks%20Parallelization%20and%20Acceleration.pdf
+Our Report Paper: https://github.com/shuanggewang/spatial-separable-convolutional-neural-networks/blob/kernel_layout/Spatial_Separable_Convolutional_Neural_Networks_Parallelization_and_Accelerations.pdf
 
 MobileNets Paper: https://arxiv.org/abs/1704.04861
 
